@@ -1,6 +1,8 @@
 # DL_for_speech_speed_recognition
 
-The idea is to investigate how LD could recognize the different speaking pace The data was collected from youtube videos, the video was of different length and from 5 different people for both classes: 100 words per min and 150 words per min. Each of videos were converted to audio files and split to 5 second files.
+The idea is to find out how LD could classify the different speaking pace.
+The data was collected from youtube videos, the video were of different length and from 5 different people for both classes: 100 words per min and 150 words per min. 
+Each of videos were converted to audio files and split to 5 second files.
 
 # Context:
 Total number of files: 600
